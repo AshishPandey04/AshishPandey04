@@ -56,15 +56,4 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/AshishPandey04/AshishPandey04/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/AshishPandey04/count.svg?"  />
-</div>
-
-###
 
