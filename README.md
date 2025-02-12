@@ -10,11 +10,8 @@
 
 
 
-<hr>
-# Ashish Kumar Pandey🌐
-### Web Developer | Tech Enthusiast
 
-![Ashish's Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+my+GitHub+Profile!)
+
 
 ---
 
